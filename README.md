@@ -1,5 +1,4 @@
-# agentic-healthcare-research-assistant
-Multi-agent AI system for healthcare research analysis using LangChain and LangGraph
+
 # Agentic Healthcare AI Research Assistant
 
 A multi-agent system I built for analyzing healthcare AI research papers and generating evidence-based recommendations.
